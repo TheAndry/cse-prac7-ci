@@ -1,0 +1,3 @@
+Andry@DESKTOP-3DATRAD MINGW64 ~/Desktop/git-cse/cse-prac7-ci (master)
+$ git commit -m test
+error: cannot spawn .git/hooks/pre-commit: Invalid argument
